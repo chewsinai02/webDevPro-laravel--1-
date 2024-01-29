@@ -1,0 +1,70 @@
+.container-plans{
+    box-shadow: 0 4px 50px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    padding: 20px;
+    font-family: Lato;
+}
+
+.col-md-2{
+    padding-top: 30px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+#link{
+    text-shadow: 1px 1px 0.5px rgba(0, 0, 0, 0.5);
+    text-decoration: none;
+    color: rgb(92, 92, 92);
+    font-size: 17px;
+}
+
+#link:hover{
+    color: black;
+    font-weight: bold;
+}
+
+.plans{
+    text-align: left;
+    justify-content: left;
+    width: auto;
+}
+
+.plan-title{
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.plan-subtitle{
+    color: grey;
+}
+
+.price-category{
+    padding-top: 20px;
+}
+
+.price{
+    font-size: 35px;
+}
+
+#buy{
+    margin-top: 25px;
+    background-color: lightgray;
+    color: black;
+}
+
+#buy:hover{
+    background-color: black;
+    color: white;
+}
+
+.plans .mr-5{
+    margin-left: 80px !important;
+
+}
+
+hr {
+    border: 2px solid #9a9999;
+    margin: 20px 0;
+}

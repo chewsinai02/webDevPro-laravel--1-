@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Varela Round';
+}
+
+.fly-in .red {
+    color: red;
+    font-weight: bold;
+    font-size: 30px;
+}
+  
+.fly-in .grey {
+    color: grey;
+    font-size: 20px;
+}
+  
+/* Custom CSS styles */
+.card {
+    border: 1px solid red; /* Add a red color border */
+}

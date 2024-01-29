@@ -1,0 +1,35 @@
+.head{
+    background-color: black;
+    color: whitesmoke;
+}
+
+.pdf{
+    color: gray;
+}
+
+.pdf:hover{
+    color: black;
+}
+
+.row{
+    padding-bottom: 10em;
+}
+
+h4{
+    text-align: center;
+}
+
+.col-md-2{
+    padding-top: 30px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+#link{
+    text-shadow: 1px 1px 0.5px rgba(0, 0, 0, 0.5);
+    text-decoration: none;
+    color: rgb(92, 92, 92);
+    font-size: 17px;
+}
